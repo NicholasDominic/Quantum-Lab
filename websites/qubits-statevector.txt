@@ -1,0 +1,1 @@
+https://quantumcomputing.stackexchange.com/questions/26338/ket-zero-0-rangle-1-0-why-a-qubit-which-is-initialized-with-zero-is-1
